@@ -10,6 +10,3 @@ services:
     container_name: watchtower
   app:
     image: bekiryalin/expressapp:latest
-
-    ports:
-      - 8080:8080
